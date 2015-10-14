@@ -1,0 +1,3 @@
+Name;combColl;firstname|lastname
+StreetAddress;combColl;address1|address2
+csz;combColl;city|state|zip
